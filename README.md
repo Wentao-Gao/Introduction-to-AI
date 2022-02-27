@@ -1,7 +1,7 @@
 # Introduction-to-AI
 
-[Week 13](# week 13：[How to evaluate the performance including regression and classification](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%201%20Week%2013.ipynb))
-[Week 17](# week 17: [Decision Trees](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%205%20Week%2017.ipynb))
+[Week 13](# week 13：[How to evaluate the performance including regression and classification])
+[Week 17](# week 17: [Decision Trees])
 
 
 This is a basic implementation of Artificial intellengence.
