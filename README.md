@@ -1,7 +1,6 @@
-# [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
-
 <img src="https://user-images.githubusercontent.com/77952995/155898164-e655ad89-b18a-44c7-9a45-55872938d6d1.png" width="100%">
 
+# [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
 
 [Week 13](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-13how-to-evaluate-the-performance-including-regression-and-classification)
 
