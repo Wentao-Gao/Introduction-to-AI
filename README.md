@@ -10,7 +10,7 @@ week 14: [k-nearest neighbours, linear regression, and the naive Bayes classifie
 
 [solution](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%202%20Week%2014%20Answers.ipynb)
 
-week 15: [unsupervised clustering algorithms](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%203%20Week%2015.ipynb
+week 15: [unsupervised clustering algorithms](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%203%20Week%2015.ipynb)
 
 [solution](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%203%20Week%2015%20Answers(1).ipynb)
 
