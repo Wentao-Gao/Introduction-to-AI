@@ -14,10 +14,7 @@ week 15: [unsupervised clustering algorithms](https://github.com/gwt9970161/Intr
 
 [solution](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%203%20Week%2015%20Answers(1).ipynb)
 
-week 16: [Single Layer Neural Networks. We look at how a single layer network performs on a toy dataset
-Multilayer Perceptrons. We look at how multiple layers perform on toy datasets
-Handwritten digit recognition in sklearn. Learning to classify numbers using the libraries in sklearn
-Handwritten digit recognition in Tensorflow. Learning to classify numbers using libraries in Tensorflow](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%204%20Week%2016.ipynb)
+week 16: [Neural Networks](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%204%20Week%2016.ipynb)
 
 [solution](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%204%20Week%2016%20answers.ipynb)
 
