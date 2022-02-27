@@ -7,7 +7,7 @@
 
 [Week 14](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-14-k-nearest-neighbours-linear-regression-and-the-naive-bayes-classifier)
 
-[Week 15](#week-15-unsupervised-clustering-algorithms)
+[Week 15](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-14-k-nearest-neighbours-linear-regression-and-the-naive-bayes-classifier)
 
 [Week 16](#week-16-Neural-Networks)
 
