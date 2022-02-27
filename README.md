@@ -66,12 +66,17 @@ MSE可以评价数据的变化程度，MSE的值越小，说明预测模型描�
 （三）R-square(决定系数)
 
 ![image](https://user-images.githubusercontent.com/77952995/155895343-40a13447-e829-4576-b7fa-4557c55d7a7a.png)
+
 数学理解： 分母理解为原始数据的离散程度，分子为预测数据和原始数据的误差，二者相除可以消除原始数据离散程度的影响
+
 其实“决定系数”是通过数据的变化来表征一个拟合的好坏。
 理论上取值范围（-∞，1], 正常取值范围为[0 1] ------实际操作中通常会选择拟合较好的曲线计算R²，因此很少出现-∞
+
 越接近1，表明方程的变量对y的解释能力越强，这个模型对数据拟合的也较好
 越接近0，表明模型拟合的越差
+
 经验值：>0.4， 拟合效果好
+
 缺点：数据集的样本越大，R²越大，因此，不同数据集的模型结果比较会有一定的误差
 
 （四）Adjusted R-Square (校正决定系数）
@@ -81,10 +86,13 @@ MSE可以评价数据的变化程度，MSE的值越小，说明预测模型描�
 n为样本数量，p为特征数量
 
 消除了样本数量和特征数量的影响
+
 （五）交叉验证（Cross-Validation）
 
 交叉验证，有的时候也称作循环估计（Rotation Estimation），是一种统计学上将数据样本切割成较小子集的实用方法，该理论是由Seymour Geisser提出的。在给定的建模样本中，拿出大部分样本进行建模型，留小部分样本用刚建立的模型进行预报，并求这小部分样本的预报误差，记录它们的平方加和。这个过程一直进行，直到所有的样本都被预报了一次而且仅被预报一次。把每个样本的预报误差平方加和，称为PRESS(predicted Error Sum of Squares)。
+
 　　交叉验证的基本思想是把在某种意义下将原始数据(dataset)进行分组,一部分做为训练集(train set)，另一部分做为验证集(validation set or test set)。首先用训练集对分类器进行训练，再利用验证集来测试训练得到的模型(model)，以此来做为评价分类器的性能指标。
+  
 　　无论分类还是回归模型，都可以利用交叉验证，进行模型评估，示例代码：
 
 ```python
@@ -130,11 +138,14 @@ accuracy_score(y_true, y_pred, normalize=False)  # 类似海明距离，每个�
 Out[128]: 3
  
 #2、分类报告：输出包括了precision/recall/fi-score/均值/分类个数
+
+ 
  from sklearn.metrics import classification_report
  y_true = [0, 1, 2, 2, 0]
  y_pred = [0, 0, 2, 2, 0]
  target_names = ['class 0', 'class 1', 'class 2']
  print(classification_report(y_true, y_pred, target_names=target_names))
+
  
 #3、特别的对于用predict_proba进行预测计算，那么必须用roc_auc_score，否则会报错
 #示例代码
