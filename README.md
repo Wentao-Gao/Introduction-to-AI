@@ -1,5 +1,9 @@
 # [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
 
+
+![image](https://user-images.githubusercontent.com/77952995/155898027-fc92ccbc-c3d2-42b2-822e-2e772349571a.png)
+
+
 [Week 13](#week-13-How-to-evaluate-the-performance-including-regression-and-classification)
 
 [Week 14](#week-14-k-nearest-neighbours-linear-regression-and-the-naive-Bayes-classifier)
