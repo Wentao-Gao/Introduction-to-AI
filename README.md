@@ -1,6 +1,6 @@
 # Introduction-to-AI
 
-[Week 13](# week-13-How-to-evaluate-the-performance-including-regression-and-classification)
+[Week 13](#week-13-How-to-evaluate-the-performance-including-regression-and-classification)
 
 [Week 17](# week 17: Decision Trees)
 
