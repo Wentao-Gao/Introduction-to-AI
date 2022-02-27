@@ -22,13 +22,18 @@ This is a basic implementation of Artificial intellengence.
 一、回归模型的评估
 主要有以下方法：
 
-指标	描述	metrics方法
-Mean Absolute Error(MAE)	平均绝对误差	from sklearn.metrics import mean_absolute_error
-Mean Square Error(MSE)	平均方差	from sklearn.metrics import mean_squared_error
-R-Squared	R平方值	from sklearn.metrics import r2_score
-#sklearn的调用
+
+
  
  ```python
+
+指标	                       描述	      metrics方法
+Mean Absolute Error(MAE)	平均绝对误差	     from sklearn.metrics import mean_absolute_error
+Mean Square Error(MSE)	        平均方差	      from sklearn.metrics import mean_squared_error
+R-Squared	                R平方值	       from sklearn.metrics import r2_score
+
+#sklearn的调用
+
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import mean_squared_error 
 from sklearn.metrics import r2_score
