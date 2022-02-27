@@ -1,6 +1,6 @@
 # Introduction-to-AI
 
-[Week 13](#week:-13-How-to-evaluate-the-performance-including-regression-and-classification)
+[Week 13](#week-13-How-to-evaluate-the-performance-including-regression-and-classification)
 
 [Week 14](#week-14-k-nearest-neighbours-linear-regression-and-the-naive-Bayes-classifier)
 
