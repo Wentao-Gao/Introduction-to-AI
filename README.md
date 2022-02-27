@@ -128,46 +128,6 @@ F1的计算公式为： ![image](https://user-images.githubusercontent.com/77952
 
 代码示例：
   
- ```python
-#1、准确率
-
-import numpy as np
-from sklearn.metrics import accuracy_score
-y_pred = [0, 2, 1, 3,9,9,8,5,8]
-y_true = [0, 1, 2, 3,2,6,3,5,9]
- 
-accuracy_score(y_true, y_pred)
-Out[127]: 0.33333333333333331
- 
-accuracy_score(y_true, y_pred, normalize=False)  # 类似海明距离，每个类别求准确后，再求微平均
-Out[128]: 3
- 
- 
-#2、分类报告：输出包括了precision/recall/fi-score/均值/分类个数
-
- from sklearn.metrics import classification_report
- y_true = [0, 1, 2, 2, 0]
- y_pred = [0, 0, 2, 2, 0]
- target_names = ['class 0', 'class 1', 'class 2']
- print(classification_report(y_true, y_pred, target_names=target_names))
-
- 
-#3、特别的对于用predict_proba进行预测计算，那么必须用roc_auc_score，否则会报错
-
-#示例代码
-from sklearn.metrics import roc_auc_score
-from sklearn.linear_model import LogisticRegression
- 
-lr = LogisticRegression(C = 0.0001,class_weight='balanced')   # c 正则化参数
-lr.fit(poly_train, target)
-lr_poly_pred = lr.predict_proba(poly_test)[:,1]
-lr_poly_pred2= lr.predict_proba(poly_train)[:,1]
-# submission dataframe
-submit = Id.copy()
-submit['TARGET'] = lr_poly_pred
- 
-print('score:',roc_auc_score(target,lr_poly_pred2))
-  ```
         
 ### 1、准确率
 建模的评估一般可以分为回归、分类和聚类的评估，本文主要介绍回归和分类的模型评估：
