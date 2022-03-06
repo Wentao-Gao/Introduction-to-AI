@@ -384,11 +384,10 @@ PSI实际应用范例：
 
 
 
-# week 14: [k-nearest neighbours, linear regression, and the naive Bayes classifier.](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%202%20Week%2014.ipynb)
+# Week 14: [监督学习](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%202%20Week%2014.ipynb)
 
 [solution](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%202%20Week%2014%20Answers.ipynb)
 
-# supervised learning
 
 ## KNN分类算法
 
