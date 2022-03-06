@@ -2,20 +2,20 @@
 
 # [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
 
-[Week 13](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-13how-to-evaluate-the-performance-including-regression-and-classification)
+[Week 13： 评估性能](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-13how-to-evaluate-the-performance-including-regression-and-classification)
 
-[Week 14](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2014%3A%20k-nearest%20neighbours%2C%20linear%20regression%2C%20and%20the%20naive%20Bayes%20classifier.)
+[Week 14： 监督学习](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2014%3A%20k-nearest%20neighbours%2C%20linear%20regression%2C%20and%20the%20naive%20Bayes%20classifier.)
 
-[Week 15](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2015%3A%20unsupervised%20clustering%20algorithms)
+[Week 15： 无监督学习](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2015%3A%20unsupervised%20clustering%20algorithms)
 
-[Week 16](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-16-neural-networks)
+[Week 16： 神经网络以及深度学习](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-16-neural-networks)
 
-[Week 17](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2017%3A%20Decision%20Trees)
+[Week 17： 决策树](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2017%3A%20Decision%20Trees)
 
 
 This is a basic implementation of Artificial intellengence.
 
-# week 13：[How to evaluate the performance including regression and classification](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%201%20Week%2013.ipynb)
+# week 13：[评估性能](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%201%20Week%2013.ipynb)
 
 [sloution](https://github.com/gwt9970161/Introduction-to-AI/blob/main/Worksheet%201%20Week%2013%20Answers.ipynb)
 
