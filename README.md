@@ -8,7 +8,7 @@
 
 [Week 15： 无监督学习](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2015%3A%20unsupervised%20clustering%20algorithms)
 
-[Week 16： 神经网络以及深度学习](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-16-neural-networks)
+[Week 16： 神经网络以及深度学习](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2016%3A%20Neural%20Networks)
 
 [Week 17： 决策树](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2017%3A%20Decision%20Trees)
 
