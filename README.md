@@ -6,11 +6,11 @@
 
 [Week 14](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2014%3A%20k-nearest%20neighbours%2C%20linear%20regression%2C%20and%20the%20naive%20Bayes%20classifier.)
 
-[Week 15](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-15-unsupervised-clustering-algorithms)
+[Week 15](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2015%3A%20unsupervised%20clustering%20algorithms)
 
 [Week 16](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-16-neural-networks)
 
-[Week 17](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-17-decision-trees)
+[Week 17](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2017%3A%20Decision%20Trees)
 
 
 This is a basic implementation of Artificial intellengence.
