@@ -4,7 +4,7 @@
 
 [Week 13](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-13how-to-evaluate-the-performance-including-regression-and-classification)
 
-[Week 14](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-14-k-nearest-neighbours-linear-regression-and-the-naive-bayes-classifier)
+[Week 14](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=week%2014%3A%20k-nearest%20neighbours%2C%20linear%20regression%2C%20and%20the%20naive%20Bayes%20classifier.)
 
 [Week 15](https://github.com/gwt9970161/Introduction-to-AI/blob/main/README.md#week-15-unsupervised-clustering-algorithms)
 
