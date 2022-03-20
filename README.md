@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/77952995/155898164-e655ad89-b18a-44c7-9a45-55872938d6d1.png" width="100%">
-
 # [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
 
 [Week 13： 评估性能](https://gwt9970161.github.io/Introduction-to-AI/#:~:text=of%20Artificial%20intellengence.-,week%2013%EF%BC%9A%E8%AF%84%E4%BC%B0%E6%80%A7%E8%83%BD,-sloution)
