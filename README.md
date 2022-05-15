@@ -78,7 +78,10 @@ MSE可以评价数据的变化程度，MSE的值越小，说明预测模型描�
 
 （四）Adjusted R-Square (校正决定系数）
 
-![image](https://user-images.githubusercontent.com/77952995/155895335-65f6879d-7306-4554-a514-fa566db57b10.png)     
+
+![image](https://user-images.githubusercontent.com/77952995/155895335-65f6879d-7306-4554-a514-fa566db57b10.png) 
+
+<img src="https://user-images.githubusercontent.com/77952995/155895335-65f6879d-7306-4554-a514-fa566db57b10.png" width="100px">
 
 n为样本数量，p为特征数量
 
