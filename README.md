@@ -80,7 +80,7 @@ MSE可以评价数据的变化程度，MSE的值越小，说明预测模型描�
 
 
 
-<img src="https://user-images.githubusercontent.com/77952995/155895335-65f6879d-7306-4554-a514-fa566db57b10.png" width="1000px">
+<img src="https://user-images.githubusercontent.com/77952995/155895335-65f6879d-7306-4554-a514-fa566db57b10.png" width="500px">
 
 n为样本数量，p为特征数量
 
