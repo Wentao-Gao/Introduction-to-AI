@@ -1,7 +1,7 @@
 # [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
 
 
-Project: [Bike rental prediction]()
+Project: [Bike rental prediction](https://github.com/gwt9970161/Introduction-to-AI/blob/main/intro_to_AI_CW_Part1.ipynb)
 
 
 [Week 13： 评估性能](https://sore-provelone-d45.notion.site/Week-13-66db51f4ffa84fe4adadf1c03cc8cfcc)
