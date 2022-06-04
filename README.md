@@ -1,5 +1,9 @@
 # [Introduction-to-AI](https://gwt9970161.github.io/Introduction-to-AI/)
 
+
+Project: [Bike rental prediction]()
+
+
 [Week 13： 评估性能](https://sore-provelone-d45.notion.site/Week-13-66db51f4ffa84fe4adadf1c03cc8cfcc)
 
 建模的评估一般可以分为回归、分类和聚类的评估，本文主要介绍回归和分类的模型评估。
